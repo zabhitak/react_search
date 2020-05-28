@@ -39,4 +39,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### `About the project`
 
-You search for anythind and it will render the photos of that search on your web
+You search for anything and it will render the photos of that search on your web
